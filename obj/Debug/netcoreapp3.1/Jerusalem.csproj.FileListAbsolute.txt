@@ -1,0 +1,13 @@
+E:\Data\JerusalemSchool\Jerusalem\bin\Debug\netcoreapp3.1\Jerusalem.exe
+E:\Data\JerusalemSchool\Jerusalem\bin\Debug\netcoreapp3.1\Jerusalem.deps.json
+E:\Data\JerusalemSchool\Jerusalem\bin\Debug\netcoreapp3.1\Jerusalem.runtimeconfig.json
+E:\Data\JerusalemSchool\Jerusalem\bin\Debug\netcoreapp3.1\Jerusalem.runtimeconfig.dev.json
+E:\Data\JerusalemSchool\Jerusalem\bin\Debug\netcoreapp3.1\Jerusalem.dll
+E:\Data\JerusalemSchool\Jerusalem\bin\Debug\netcoreapp3.1\Jerusalem.pdb
+E:\Data\JerusalemSchool\Jerusalem\obj\Debug\netcoreapp3.1\Jerusalem.csprojAssemblyReference.cache
+E:\Data\JerusalemSchool\Jerusalem\obj\Debug\netcoreapp3.1\Jerusalem.AssemblyInfoInputs.cache
+E:\Data\JerusalemSchool\Jerusalem\obj\Debug\netcoreapp3.1\Jerusalem.AssemblyInfo.cs
+E:\Data\JerusalemSchool\Jerusalem\obj\Debug\netcoreapp3.1\Jerusalem.csproj.CoreCompileInputs.cache
+E:\Data\JerusalemSchool\Jerusalem\obj\Debug\netcoreapp3.1\Jerusalem.dll
+E:\Data\JerusalemSchool\Jerusalem\obj\Debug\netcoreapp3.1\Jerusalem.pdb
+E:\Data\JerusalemSchool\Jerusalem\obj\Debug\netcoreapp3.1\Jerusalem.genruntimeconfig.cache

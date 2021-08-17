@@ -4,8 +4,10 @@ using System.Text;
 using System.Net;
 namespace Jerusalem{
     public class BusinessLogic{
-              public static string HttpPost(string url, string apikey ,string postData)
+        public static string HttpPost(string url, string apikey ,string postData)
         {
+           try{
+               
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             // Set the Method property of the request to POST.
             request.Method = "POST";
@@ -38,6 +40,11 @@ namespace Jerusalem{
             response.Close();
 
             return responseFromServer;
+
+           }
+           catch(Exception ex ){
+               throw ex;
+           }
         }
     }
 }

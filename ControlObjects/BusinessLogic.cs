@@ -9,9 +9,11 @@ namespace Jerusalem{
            try{
                
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
-            // Set the Method property of the request to POST.
+            // Set the Method property of the request to POST.run
+            
             request.Method = "POST";
-            request.Headers["Authorization"]= "Bearer " + apikey;
+            request.Headers.Add("Authorization", "Token e54d301c9563fd4279dbb50d3be7a8460863ecac");
+            //request.Headers["Authorization"]= "Bearer " + apikey;
             byte[] byteArray = Encoding.UTF8.GetBytes(postData);
             // Set the ContentType property of the WebRequest.
             request.ContentType = "application/json";
